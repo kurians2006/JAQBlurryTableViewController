@@ -1,6 +1,6 @@
 #JAQBlurryTableViewController
 
-UITableViewController with a Blurry Header that unblurs when scrolling up.
+UITableViewController with a Blurry Header that unblurs when scrolling up, like Tweetbot.
 
 [![](https://dl.dropboxusercontent.com/u/15831273/JAQBlurryDemo.gif)](https://dl.dropboxusercontent.com/u/15831273/JAQBlurryDemo.gif)
 

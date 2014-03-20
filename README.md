@@ -8,7 +8,7 @@ UITableViewController with a Blurry Header that unblurs when scrolling up, like 
 
 [CocoaPods](http://cocoapods.org) is the recommended way to add JAQBlurryTableViewController to your project.
 
-1. Add a pod entry for JAQBlurryTableViewController to your Podfile `pod 'JAQBlurryTableViewController', '~> 0.0.1'`
+1. Add a pod entry for JAQBlurryTableViewController to your Podfile `pod 'JAQBlurryTableViewController'`
 2. Install the pod(s) by running `pod install`.
 3. Include JAQBlurryTableViewController wherever you need it with `#import "JAQBlurryTableViewController.h"`.
 4. Instead of subclassing UITableViewController, subclass JAQBlurryTableViewController.
